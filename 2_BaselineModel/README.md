@@ -13,11 +13,13 @@ The purpose of this stage is to establish a baseline model for your project. A b
 Implement linear regression model and provide information on the following issues:
 
 - **Feature Selection**
+    We tried quite some feature combinations but this one seemed to work best
 
 - **Implementation**
 
 - **Evaluation**
+    The Kaggle score was still not good but acceptable for a linear regression
 
 ## Notebook 
 
-**[Notebook ](Add-Link)**
+**[Notebook ]()**
