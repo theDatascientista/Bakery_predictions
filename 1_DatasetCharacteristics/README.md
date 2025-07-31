@@ -30,6 +30,6 @@ Provide information on the following issues:
 
 - **Correlations**
 - All Weather related features are correlated (Windgeschwindigkeit, Temperatur, Wettercode)
-- During the KielerWoche a peak in Brötchen sales and during new years eve a peak in Kuchen can be observed
+- During new years eve a peak in Kuchen can be observed
 
 
