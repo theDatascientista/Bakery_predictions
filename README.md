@@ -34,4 +34,4 @@ Regression
 
 ## Cover Image
 
-![](CoverImage/cover_image.png)
+![](https://github.com/theDatascientista/Bakery_predictions/blob/65e91ee35fe71cf7def9e1e63e0c86c2015fdcad/CoverImage/Bild.png)
