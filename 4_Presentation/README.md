@@ -1,3 +1,3 @@
 # Presentation
 
-**[Slides](name_of_your_file_including_the_presentation_slides)**
+**[Slides](https://github.com/theDatascientista/Bakery_predictions/blob/main/4_Presentation/Bakery_sales_pred_LK-LS-EA-MM.pptx)**
