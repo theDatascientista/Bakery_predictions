@@ -18,6 +18,6 @@ Implement linear regression model and provide information on the following issue
 
 - **Evaluation**
 
-## Task
+## Notebook 
 
-Create a Jupyter Notebook to conduct your implmentation of the baseline model.
+**[Notebook ](Add-Link)**
