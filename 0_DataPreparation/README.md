@@ -26,6 +26,3 @@ Focus on the following key issues:
 
 - **Data Transformation** (e.g., converting metric data to categorical data)
 
-## Task
-
-Link
