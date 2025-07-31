@@ -1,3 +1,4 @@
 # Baseline Model
 
-Best performing linear Model: Linear_regression_Lina Lin_Reg4
+Best performing linear model: Linear_regression_Lina Lin_Reg4
+Used variables: Warengruppe, Wochentag, Temperatur
