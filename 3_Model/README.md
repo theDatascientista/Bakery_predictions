@@ -18,6 +18,7 @@ Provide information on the following issues:
 
 - **Evaluation Metrics**
 
-## Task
+## Notebook 
+**[Slides](Add-Link)**
 
 Create a Jupyter Notebook to conduct your model implementation and evaluation.
